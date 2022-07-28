@@ -1,0 +1,7 @@
+1. How does parallel programming/computing works? What do you think
+will be the advantage of utilizing parallel approach?
+
+Advantages of parallel processing. The benefits of parallel computing include quicker "big data" processing and more effective code execution,
+which can save time and money. More resources can be used in parallel programming to address more difficult tasks.
+In order for many processors connected by shared memory to run smaller, independent, frequently comparable sections of bigger problems concurrently,
+this technique is known as parallel computing. The completed results are then integrated as part of a larger algorithm.
